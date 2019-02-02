@@ -32,7 +32,8 @@ Here's | A | Table
 *an italicized statement*
 
 ___
-Directory pic
+#### Directory Picture
+
 ![alt text](hongkong.jpg "directory pic")
 
 [README](README.md)
